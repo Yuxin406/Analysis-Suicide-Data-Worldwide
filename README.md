@@ -1,1 +1,1 @@
-# Analysis-Suicide-Data-Worldwide
+# Suicide-Data-Worldwide
